@@ -1,0 +1,44 @@
+$blue: #006FFF;
+$blue-dark: #022649;
+$light-blue: #F0F6FF;
+$blue-900: #01172C;
+$blue-800: #011B33;
+$gray: #A6A6A7;
+$gray-100: #E9E9E9;
+$gray-900: #565657;
+$aqua: #23B794;
+$pita: #D6215B;
+
+.bg-blue{
+    background-color: $blue;
+}
+.bg-gray{
+    background-color: $gray;
+}
+.bg-light-blue{
+    background-color: $light-blue;
+}
+.bg-gray-100{
+    background-color: $gray-100;
+}
+.c-aqua{
+    color: $aqua;
+}
+.bg-white{
+    background-color: white;
+}
+.c-pita{
+    color: $pita;
+}
+.c-dark-blue{
+    color: $blue-dark;
+}
+.c-blue-800{
+    color: $blue-800;
+}
+.c-blue-900{
+    color: $blue-900;
+}
+.c-gray-900{
+    color: $gray-900;
+}
